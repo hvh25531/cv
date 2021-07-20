@@ -11,10 +11,10 @@
 	* JavaScript, ES6, HTML5, CSS3
 	* ReactJS, AngularJS, EmberJS
   * Laravel, Wordpress
-	* Saleforce, LWC, Vlocity
-	* Bootstrap, Material Design, SASS, LESS, Responsive
-	* Grunt, Gulp, NPM, Webpack
-	* Mobile App
+  * Saleforce, LWC, Vlocity
+  * Bootstrap, Material Design, SASS, LESS, Responsive
+  * Grunt, Gulp, NPM, Webpack
+  * Mobile App
 
 * #### Dev
 	* Design Tools
