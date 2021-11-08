@@ -2,8 +2,7 @@
 
 * Senior full-stack developer at `Metta Depth LLC`
 * Working experience in Vietnam.
-* Email: [hvh25531@gmail.com](mailto:hvh25531@gmail.com)
-* Phone: [+84349511415](tel:+84349511415)
+* Email: [hhoang@mettadepth.com](mailto:hhoang@mettadepth.com)
 
 ## Expertise
 
