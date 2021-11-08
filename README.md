@@ -44,6 +44,10 @@
 
 ## Experience
 
+
+### **Full Stack Developer | Metta Depth LLC**, `Present`
+- [x] Working for [Camvas](https://www.getcamvas.com/)
+
 ### **Full Stack Developer | Metta Depth LLC**, `May 2016 - Present`
 - [x] Built +7 corporate websites using `Laravel Framework`, `Wordpress CMS`, `Next.js`
 - [x] Created an e-commerce website and an associate cross-platform app using `Wordpress CMS`, `React Native`
