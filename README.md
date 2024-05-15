@@ -1,6 +1,6 @@
 ## Ho Vu Hoang
 
-* Senior full-stack developer at `Metta Depth LLC`
+* Full-stack developer at `Metta Depth LLC`
 * Working experience in Vietnam.
 * Email: [hvh25531@gmail.com](mailto:hvh25531@gmail.com)
 
